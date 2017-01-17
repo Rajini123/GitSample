@@ -23,7 +23,7 @@
      NSLog(@"This is for sailu");
      NSLog(@"This is for rajini");
     NSLog(@"This is for Ambica");
-    
+    NSLog(@"Sailuuuu");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
