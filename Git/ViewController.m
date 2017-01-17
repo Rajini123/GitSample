@@ -20,6 +20,7 @@
     
     NSLog(@"My first Project");
     NSLog(@"HII");
+     NSLog(@"This is for sailu");
     
     
     // Do any additional setup after loading the view, typically from a nib.
