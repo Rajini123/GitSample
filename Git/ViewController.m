@@ -16,6 +16,12 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    
+    NSLog(@"My first Project");
+    
+    
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
